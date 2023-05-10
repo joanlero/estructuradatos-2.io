@@ -1,5 +1,5 @@
 ## COLEGIO CHAMPAGNAT
-***En mi labor diaria en el colegio Champagnat me ha sido encargada la labor de desarrollar una un aplicativo donde se pueda identificar el valor de las compras semanalmente, como información de cada compra se debe registrar: nombe proveedor, precio, nombre, fecha***
+***En mi labor diaria en el colegio Champagnat me ha sido encargada la labor de desarrollar una un aplicativo donde se pueda identificar el valor de las compras semanalmente, como información de cada compra se debe registrar: nombre proveedor, precio, nombre, fecha***
 ### Aclaraciones
 - Se requiere calcular el valor de las compras que se realizan semanalmente.
 - No se realizará validaciones de los datos ingresados.
