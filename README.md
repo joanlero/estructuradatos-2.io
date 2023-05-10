@@ -4,5 +4,5 @@
 - Se requiere calcular el promedio de requerimientos que se atienden semanalmente.
 - No se realizará validaciones de los datos ingresados.
 ### Imágen
-![Historia de usuario](https://github.com/joanlero/estructuradatos-2.io/blob/ffee117572e676d509e48a61c51e47b85be834f5/imagen.PNG)
+![Historia de usuario](https://github.com/joanlero/estructuradatos-2.io/blob/64c07fb62d9e068b2d45772196af8ba1c24fe453/imagen.PNG)
 
