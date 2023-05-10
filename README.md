@@ -7,7 +7,7 @@
 ![Historia de usuario](https://github.com/joanlero/estructuradatos-2.io/blob/f0adcf5b9f4f988aa15d32d3a2dc8c3a92e6dc27/imagen.PNG)
 
 ### Aproximación caso de uso
-![Casos de Uso](https://github.com/joanlero/estructuradatos-2.io/blob/648ee472852ae47d31886013f6e1b6f2cf4460a3/Casos%20de%20usos.PNG)
+![Casos de Uso]([https://github.com/joanlero/estructuradatos-2.io/blob/648ee472852ae47d31886013f6e1b6f2cf4460a3/Casos%20de%20usos.PNG](https://github.com/joanlero/estructuradatos-2.io/blob/fda1515f5710a9bf8e7006df2d93d2eb9cec8057/Casos%20de%20usos.PNG))
 
 
 
