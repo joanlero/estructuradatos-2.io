@@ -9,5 +9,6 @@
 ### Aproximación caso de uso
 ![Casos de Uso](https://github.com/joanlero/estructuradatos-2.io/blob/fda1515f5710a9bf8e7006df2d93d2eb9cec8057/Casos%20de%20usos.PNG)
 
-
+### Aproximación Diagrama de Flujo
+![Diagrma de Flujo](https://github.com/joanlero/estructuradatos-2.io/blob/818a7cdbdb6e4a51ddb5d040e46cfcb7a8a8928a/diagramaFlujo.png)
 
