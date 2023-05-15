@@ -10,7 +10,7 @@
 ![Casos de Uso](https://github.com/joanlero/estructuradatos-2.io/blob/9bca773e3918e2c18fdd5abebff0cca2a2ded1ff/Casos%20de%20usos.PNG)
 
 ### Aproximación Diagrama de Flujo
-![Diagrma de Flujo](https://github.com/joanlero/estructuradatos-2.io/blob/ba3685b997499ba37d6bbd1c188a4ab100172b59/diagramaFlujo.png)
+![Diagrma de Flujo](https://github.com/joanlero/estructuradatos-2.io/blob/7668622508874bc3447c571ba19baddd94e25746/diagramaFlujo.png)
 
 ### Aproximación Seudocódigo
 ~~~
