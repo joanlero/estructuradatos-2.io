@@ -15,29 +15,37 @@
 ### Aproximación Seudocódigo
 ~~~
 Inicio
-Caracteres: proveedor[50],
-Real: precio[15],
+Caracteres: nitProveedor
+Caracteres: nombreProveedor[50],
+Caracteres: nombreProveedor[50],
+Caracteres: referenciaCompra[50],
+Real: valorCompra[15],
 Date: date
-Caracteres: proveedor
 Entero: numCompra, i
-Real: precio, valorCompra <- 0
+Real: valorCompra, valorCompra <- 0
 Imprimir: ‘Digite el número de compra:’
 Asignar: numCompra
 Para i=0 hasta numCompra - 1, 1
+Imprimir: ‘Digite nit del proveedor:’
+Asignar: nitProveedor
 Imprimir: ‘Digite la nombre Proveedor:’
-Asignar: proveedor
-Imprimir: ‘Digite el precio:’
-Asignar: precio
+Asignar: nombreProveedor
+Imprimir: ‘Digite la referefcia de la compra:’
+Asignar: referenciaCompra
+Imprimir: ‘Digite el varlor de la compra:’
+Asignar: valorCompra
 Imprimir: ‘Digite la fecha:’
 Asignar: fecha
-proveedor[i] <- proveedor
-precio[i] <- precio
+nitProveedor[i] <- nitProveedor
+nombreProveedor[i] <- nombrePproveedor
+referenciaCompra[i]<- referenciaCompra
+varlorCompra[i] <- referenciaCompra
 fecha[i] <- fecha
 finPara
 Para i=0 hasta numCompra -1, 1
 valorCompra <-
-valorCompra + (precio[i]+precio[i])
+valorCompra + (valorCompra[i]+valorCompra[i])
 finPara
-Imprimir: ‘El valor de la compra es:’ + valorCompra
+Imprimir: ‘El total de la compra es:’ + valorCompra
 Fin
 ~~~
